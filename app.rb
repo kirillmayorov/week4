@@ -3,7 +3,7 @@ require 'json'
 
 
 class Web < Sinatra::Base
-  @@user = 'itmo287667'
+  @@user = 'itmo288706'
   @@plain_text = "text/plain; charset=UTF-8"
 
   result4 = lambda do
