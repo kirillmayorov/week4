@@ -43,7 +43,7 @@ GEM
       selenium-webdriver (>= 3.0, < 4.0)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   puma
